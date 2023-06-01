@@ -1,6 +1,6 @@
 {
   "name": "MRDAOtokenlist",
-  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "logoURI": "https://mrdaos.github.io/token-list/assets/compound-interface.svg",
   "keywords": [
     "compound",
     "defi"
@@ -13,7 +13,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_USDT.svg"
+      "logoURI": "https://github.com/MRDAOS/token-list/assets/asset_USDT.svg"
     },
     {
       "chainId": 30888,
@@ -21,7 +21,7 @@
       "name": "Compound USD Coin",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_USDC.svg"
+      "logoURI": "https://mrdaos.github.io/token-list/assets/asset_USDC.svg"
     },
     {
       "chainId": 30888,
@@ -29,7 +29,7 @@
       "name": "Ethereum",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_ETH.svg"
+      "logoURI": "https://mrdaos.github.io/token-list/assets/asset_ETH.svg"
     },
     {
       "chainId": 30888,
@@ -37,7 +37,7 @@
       "name": "Binance",
       "symbol": "WBNB",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/bnb.svg"
+      "logoURI": "https://mrdaos.github.io/token-list/assets/bnb.svg"
     },
     {
       "chainId": 30888,
@@ -45,7 +45,7 @@
       "name": "Bitcoin",
       "symbol": "WBTC",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/BTC.svg"
+      "logoURI": "https://mrdaos.github.io/token-list/assets/BTC.svg"
     },
     {
       "chainId": 30888,
@@ -53,7 +53,7 @@
       "name": "Moutai Token",
       "symbol": "MOUT",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_SAI.svg"
+      "logoURI": "https://mrdaos.github.io/token-list/assets/asset_SAI.svg"
     },
     {
       "chainId": 30888,
@@ -61,7 +61,7 @@
       "name": "PENFOLDS389",
       "symbol": "P389",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_POOL.svg"
+      "logoURI": "https://mrdaos.github.io/token-list/assets/asset_POOL.svg"
     },
     {
       "chainId": 30888,
@@ -69,7 +69,7 @@
       "name": "MRDAO Token",
       "symbol": "DAO",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/dao.svg"
+      "logoURI": "https://mrdaos.github.io/token-list/assets/dao.svg"
     },
     {
       "chainId": 30888,
@@ -77,7 +77,7 @@
       "name": "Game DAO",
       "symbol": "GDAO",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_ZRX.svg"
+      "logoURI": "https://mrdaos.github.io/token-list/assets/asset_ZRX.svg"
     },
     {
       "chainId": 30888,
@@ -85,7 +85,7 @@
       "name": "WMDAO",
       "symbol": "WMDAO",
       "decimals": 18,
-      "logoURI": "https://ysyj0531.github.io/token-list/assets/asset_wmdao.svg"
+      "logoURI": "https://mrdaos.github.io/token-list/assets/asset_wmdao.svg"
     }
   ],
   "version": {
