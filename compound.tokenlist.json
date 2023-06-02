@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 30888,
-      "address": "0x6Dc1F034227F67b59f13fa8d300C8E078128e7EC",
+      "address": "0xc55481c6e943c2fd80Da016273Cd71D0Cd52ca47",
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
@@ -17,7 +17,7 @@
     },
     {
       "chainId": 30888,
-      "address": "0x7e0669FB6834372834eF7554e6d3aB7Ce1829cBc",
+      "address": "0xcd9cD97C5964E9EE46468Cd8bfCD3f9ab3DE8cf5",
       "name": "Compound USD Coin",
       "symbol": "USDC",
       "decimals": 18,
@@ -25,7 +25,7 @@
     },
     {
       "chainId": 30888,
-      "address": "0x6E8f6d5CfC42Cf1b7F4b184c3725da1B327AEbFd",
+      "address": "0x7702f88Bb337a340646C0A03a2981dDA57e5f0C8",
       "name": "Ethereum",
       "symbol": "WETH",
       "decimals": 18,
@@ -33,7 +33,7 @@
     },
     {
       "chainId": 30888,
-      "address": "0xf39a2419b0C281B7f47b474dccebe4A43420c143",
+      "address": "0x632c742EAbCdD5b612c47deDDE3a0CeC8A4F1609",
       "name": "Binance",
       "symbol": "WBNB",
       "decimals": 18,
@@ -41,7 +41,7 @@
     },
     {
       "chainId": 30888,
-      "address": "0x5b796754329127509D19666E658B397481dFE3EC",
+      "address": "0xA676D1A5231fB5001e469b31aAfEa6C5631cf12E",
       "name": "Bitcoin",
       "symbol": "WBTC",
       "decimals": 18,
@@ -49,7 +49,7 @@
     },
     {
       "chainId": 30888,
-      "address": "0x14c9B03B0180DfeE332EfCE53A6f4d5abB7Fee70",
+      "address": "0x624D28C0284710F6B9f8f610a849E959B93dA98f",
       "name": "Moutai Token",
       "symbol": "MOUT",
       "decimals": 18,
