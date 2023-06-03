@@ -13,7 +13,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://github.com/MRDAOS/token-list/assets/asset_USDT.svg"
+      "logoURI": "https://mrdaos.github.io/token-list/assets/asset_USDT.svg"
     },
     {
       "chainId": 30888,
