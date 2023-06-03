@@ -49,7 +49,7 @@
     },
     {
       "chainId": 30888,
-      "address": "0x624D28C0284710F6B9f8f610a849E959B93dA98f",
+      "address": "0xDFC3D12A753B78fc53a8a9b3f46aB43DD3d57B4B",
       "name": "Moutai Token",
       "symbol": "MOUT",
       "decimals": 18,
@@ -57,7 +57,7 @@
     },
     {
       "chainId": 30888,
-      "address": "0xC6BC33cb9e8e63F9618FC47CeC65991B860D2025",
+      "address": "0xCeb8b64DF4a5c76f3f7e5905c8a71a31aCeF884A",
       "name": "PENFOLDS389",
       "symbol": "P389",
       "decimals": 18,
@@ -65,7 +65,7 @@
     },
     {
       "chainId": 30888,
-      "address": "0xdE7f15b587A9170f8A3b0128890a91639D3A0CB4",
+      "address": "0x1c55aC06e1CA2fB7CC8Df8f1f9C5b0A892401455",
       "name": "MRDAO Token",
       "symbol": "DAO",
       "decimals": 18,
@@ -73,7 +73,7 @@
     },
     {
       "chainId": 30888,
-      "address": "0x72a1EbA779F2934111bffaCdDA439B7773F28DfB",
+      "address": "0x179517AA8a86a60ccdc6D5A6804550237C238e15",
       "name": "Game DAO",
       "symbol": "GDAO",
       "decimals": 18,
